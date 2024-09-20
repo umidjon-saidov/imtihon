@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "600";
+  src: url(/fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: "400";
+  src: url(/fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: '700';
+    src: url(/fonts/OpenSans-Bold.ttf);
+}
+@font-face {
+  font-family: '400-2';
+  src: url(/fonts/OpenSans-Regular.ttf);
+}
